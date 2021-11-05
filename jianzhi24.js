@@ -8,7 +8,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  * 递归写法
- * 
+ * 到最后的一次递归，递归到5就结束了，然后执行了4的代码
  * 
  */
 var reverseList = function (head) {
